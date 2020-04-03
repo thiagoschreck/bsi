@@ -3,7 +3,7 @@
 )
 
 function Manual {
-    Write-Host("`nNAME`n`tBetter System Info`n`nDESCRIPTION`n`tThis is a script created in order to retrieve and show basic system information.`n`tThe retrieved information consists of: IP Address, Operative System, CPU and RAM.`n`nSYNTAX`n`.\BetterSystemInfo.ps1 (command)`n`nCOMMANDS`n`t[help] - Shows the commands available.`n`t[quiet] - Disables command output.`n`t[graphic] - Default parameter. Shows the retrieved information in a table.`n")
+    Write-Host("`nNAME`n`tBetter System Info`n`nDESCRIPTION`n`tThis is a script created in order to retrieve and show basic system information.`n`tThe retrieved information consists of: IP Address, Operative System, CPU and RAM.`n`nSYNTAX`n`t.\BetterSystemInfo.ps1 (command)`n`nCOMMANDS`n`t[help] - Shows the commands available.`n`t[quiet] - Disables command output.`n`t[graphic] - Default parameter. Shows the retrieved information in a table.`n")
 }
 
 function GetData {
