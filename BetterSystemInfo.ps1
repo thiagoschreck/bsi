@@ -41,3 +41,5 @@ Switch ($option)
    "whomadethis" { Credits }
    default { BeLoud }
 }
+
+cmd /c pause
